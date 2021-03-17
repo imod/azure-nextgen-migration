@@ -1,6 +1,6 @@
 # azure-nextgen-migration
 
-example project showing pulumi migration problems
+example project showing pulumi migration problem from `azure-nextgen` to `azure-native`: https://github.com/pulumi/pulumi-azure-native/issues/674
 
 this project is setup with pulumi azure nextgen:
 
